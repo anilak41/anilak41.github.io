@@ -2,7 +2,7 @@
 title: "Neutrino Oscillations."
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/neutrino_oscillations
 venue: "IOP Bhubaneswar"
 date: 2017-03-01
 location: "Bhubaneswar, India"
