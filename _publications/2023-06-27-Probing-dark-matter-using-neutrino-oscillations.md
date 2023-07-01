@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-06-27
-venue: 'Journal 1'
+venue: 'Physical Review D'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevD.107.115030'
 citation: 'Anuj Kumar Upadhyay, Anil Kumar, Sanjib Kumar Agarwalla, Amol Dighe, "Probing dark matter inside Earth using atmospheric neutrino oscillations at INO-ICAL", Physical Review D 107, (2023) 115030.'
 ---
