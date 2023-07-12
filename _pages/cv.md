@@ -51,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* AP Seminar Organizer. 2-2
+* Astrophysics Seminar Organizer at DESY, Zeuthen: June 2023 - Current
