@@ -3,9 +3,9 @@ title: "Probing interiors of Earth using magnetized neutrino detector"
 collection: talks
 type: "Conference"
 permalink: /talks/2023-07-06-MMTE-2023-Earth-Tomography-ICAL
-venue: "APC, Paris"
+venue: "International Workshop on Multi-messenger Tomography of the Earth (MMTE 2023)"
 date: 2023-07-06
-location: "Paris, France"
+location: "APC-Université Paris Cité, Paris, France"
 ---
 
 [Download Talk](https://indico.in2p3.fr/event/30001/contributions/126613/attachments/79006/115411/MMTE_2023_ICAL_INO_Anil_Kumar.pdf)

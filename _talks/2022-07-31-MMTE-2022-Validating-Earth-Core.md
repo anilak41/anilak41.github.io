@@ -3,9 +3,9 @@ title: "Validating the Earth's Core using Atmospheric Neutrinos with ICAL at INO
 collection: talks
 type: "Conference"
 permalink: /talks/2022-07-31-MMTE-2022-Validating-Earth-Core
-venue: "Cliff Lodge, Utah (Online)"
+venue: "Multi-Messenger Tomography of Earth (MMTE 2022) Workshop, (Online)"
 date: 2023-07-06
-location: "Utah, USA"
+location: "Salt Lake City, Utah, United States"
 ---
 
 [Download Talk](http://anilak41.github.io/files/talks/2022/MMTE_2022_Anil_Kumar.pdf)
