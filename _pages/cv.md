@@ -24,12 +24,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Experiments experience:** RPC fabrication and characterization, Surface resistivity of graphite in RPC, Plastic scintillators, Silicon Photo-multiplier, NIM logic units, DAQ systems, Muon decay, Gamma Spectroscopy, HPGe, Cosmic muon veto, Neutron absorption, FPGA, Arduino micro-controller
+* **Programming and Scripting Languages:** C++, C, Python, Fortran, ROOT, Matlab, GEANT4, GENIE, Microprocessor Programing (8085), HTML, Markup, PHP
+* **Tools:** Git, Jupyter Notebook, Latex, MS Word, Excel, Powerpoint, Inkscape, Kdenlive
 
 Publications
 ======
