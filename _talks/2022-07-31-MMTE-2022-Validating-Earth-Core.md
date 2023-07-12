@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/2022-07-31-MMTE-2022-Validating-Earth-Core
 venue: "Multi-Messenger Tomography of Earth (MMTE 2022) Workshop, (Online)"
-date: 2023-07-06
+date: 2022-07-31
 location: "Salt Lake City, Utah, United States"
 ---
 
