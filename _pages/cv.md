@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, HBNI, Mumbai, 2022
-* M.Sc. in Physics, IIT Roorkee, 2016
-* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2014
+* Ph.D in Physics, HBNI, Mumbai, 2016-2022
+* M.Sc. in Physics, IIT Roorkee, 2014-2016
+* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2011-2014
 
 Work experience
 ======
-* May 2022 - Current: Post Doctoral Fellow
+* Post Doctoral Fellow: May 2022 - Current
   * IceCube Collaboration
   * DESY Zeuthen, Germany
   * Supervisor: Dr. Summer Blot
@@ -39,13 +39,16 @@ Talks
   <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AP Seminar Organizer. 2-2
