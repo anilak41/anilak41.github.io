@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2014
+* M.Sc. in Physics, IIT Roorkee, 2016
+* Ph.D in Physics, HBNI, Mumbai, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2022 - Current: Post Doctoral Fellow
+  * IceCube Collaboration
+  * DESY Zeuthen, Germany
+  * Supervisor: Dr. Summer Blot
   
 Skills
 ======
@@ -38,15 +33,15 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ol>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Teaching
 ======
