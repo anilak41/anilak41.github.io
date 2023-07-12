@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2014
-* M.Sc. in Physics, IIT Roorkee, 2016
 * Ph.D in Physics, HBNI, Mumbai, 2022
+* M.Sc. in Physics, IIT Roorkee, 2016
+* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2014
 
 Work experience
 ======
@@ -30,19 +30,19 @@ Skills
 
 Publications
 ======
-  <ol>{% for post in site.publications %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
 Talks
 ======
-  <ol>{% for post in site.talks %}
+  <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
