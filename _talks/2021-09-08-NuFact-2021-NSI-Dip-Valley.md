@@ -4,7 +4,6 @@ collection: talks
 type: "Conference"
 permalink: /talks/2021-09-08-NuFact-2021-NSI-Dip-Valley
 venue: "The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021, online)"
-Neutrinos from Accelerators (online)
 date: 2021-09-08
 location: " Cagliari, Italy"
 ---
