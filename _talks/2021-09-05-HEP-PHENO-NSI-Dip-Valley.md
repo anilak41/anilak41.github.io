@@ -1,16 +1,16 @@
 ---
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: talks
-type: "Conference"
-permalink: /talks/2021-09-05-HEP-PHENO-NSI-Dip-Valley
-venue: "VIRTUAL SCHOOL ON FLAVOR STRUCTURE OF THE STANDARD MODEL"
+type: "School"
+permalink: /talks/2021-09-05-HEP-Pheno-NSI-Dip-Valley
+venue: "Virtual School on Flavor Structure of the Standard Model"
 date: 2021-09-05
 location: "Online"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2021/HEP-PHENO_2021_NSI_Anil_Kumar.pdf
+[Download Talk](http://anilak41.github.io/files/talks/2021/HEP-Pheno_2021_NSI_Anil_Kumar.pdf
 
-School: [VIRTUAL SCHOOL ON FLAVOR STRUCTURE OF THE STANDARD MODEL, Online](https://sites.google.com/view/hep-pheno-school/home)
+School: [Virtual School on Flavor Structure of the Standard Model, Online](https://sites.google.com/view/hep-pheno-school/home)
 
 Presentation mode: Online
 
