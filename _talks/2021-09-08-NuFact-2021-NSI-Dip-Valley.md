@@ -3,7 +3,7 @@ title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrin
 collection: talks
 type: "Conference"
 permalink: /talks/2021-09-08-NuFact-2021-NSI-Dip-Valley
-venue: "The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021, online)"
+venue: "The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021, Online)"
 date: 2021-09-08
 location: " Cagliari, Italy"
 ---
