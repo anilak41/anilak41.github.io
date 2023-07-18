@@ -14,7 +14,7 @@ location: " Padova, Italy"
 
 [Recording](https://mediaspace.unipd.it/media/%20XIX+International+Workshop+on+Neutrino+Telescopes+-%20+Parallel+Room+3/1_3yaiywqe?st=8957&ed=9328)
 
-Conference: [The XIX International Workshop on Neutrino Telescopes (2021), Online, Padova, Italy](https://agenda.infn.it/event/24250/)
+Conference: [The XIX International Workshop on Neutrino Telescopes (NeuTel 2021), Online, Padova, Italy](https://agenda.infn.it/event/24250/)
 
 Presentation mode: Online
 
