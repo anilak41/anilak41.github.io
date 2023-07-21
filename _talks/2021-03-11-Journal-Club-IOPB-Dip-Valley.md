@@ -8,7 +8,7 @@ date: 2021-03-11
 location: "Bhubaneshwar, India"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2022/IOPB_Journal_club_Dip_Valley_Anil_Kumar.pdf){:target="_blank"}
+[Download Talk](http://anilak41.github.io/files/talks/2021/IOPB_Journal_club_Dip_Valley_Anil_Kumar.pdf){:target="_blank"}
 
 Presentation mode: In-person
 
