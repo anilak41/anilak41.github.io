@@ -8,9 +8,9 @@ date: 2021-09-08
 location: " Cagliari, Italy"
 ---
 
-[Download Talk](https://indico.cern.ch/event/855372/contributions/4450783/attachments/2303820/3919149/Kumar_Anil_NSI_Dip_Valley.pdf)
+[Download Talk](https://indico.cern.ch/event/855372/contributions/4450783/attachments/2303820/3919149/Kumar_Anil_NSI_Dip_Valley.pdf){:target="_blank"}
 
-Conference: [The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021), Cagliari, Italy](https://nufact2021.ca.infn.it/)
+Conference: [The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021), Cagliari, Italy](https://nufact2021.ca.infn.it/){:target="_blank"}
 
 Presentation mode: Online
 

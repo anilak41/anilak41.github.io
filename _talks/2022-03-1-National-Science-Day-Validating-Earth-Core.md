@@ -8,9 +8,9 @@ date: 2022-03-1
 location: "Department of Physics, Tezpur University, Tezpur, India"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2022/Tezpur_National_Science_Day_2022_Validating_Core_Anil_Kumar.pdf)
+[Download Talk](http://anilak41.github.io/files/talks/2022/Tezpur_National_Science_Day_2022_Validating_Core_Anil_Kumar.pdf){:target="_blank"}
 
-[National Science Day, Department of Physics, Tezpur University, Tezpur, India](https://www.tezu.ernet.in/event/2022/ScienceDay-Physics-poster.pdf)
+[National Science Day, Department of Physics, Tezpur University, Tezpur, India](https://www.tezu.ernet.in/event/2022/ScienceDay-Physics-poster.pdf){:target="_blank"}
 
 Presentation mode: Online
 

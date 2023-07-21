@@ -8,13 +8,13 @@ date: 2021-02-23
 location: " Padova, Italy"
 ---
 
-[Download Talk](https://agenda.infn.it/event/24250/contributions/130128/attachments/79372/103139/NuTel_Anil_Kumar_NSI.pdf)
+[Download Talk](https://agenda.infn.it/event/24250/contributions/130128/attachments/79372/103139/NuTel_Anil_Kumar_NSI.pdf){:target="_blank"}
 
-[Zenodo](http://doi.org/10.5281/zenodo.4687417)
+[Zenodo](http://doi.org/10.5281/zenodo.4687417){:target="_blank"}
 
-[Recording](https://mediaspace.unipd.it/media/%20XIX+International+Workshop+on+Neutrino+Telescopes+-%20+Parallel+Room+3/1_3yaiywqe?st=8957&ed=9328)
+[Recording](https://mediaspace.unipd.it/media/%20XIX+International+Workshop+on+Neutrino+Telescopes+-%20+Parallel+Room+3/1_3yaiywqe?st=8957&ed=9328){:target="_blank"}
 
-Conference: [The XIX International Workshop on Neutrino Telescopes (NeuTel 2021), Online, Padova, Italy](https://agenda.infn.it/event/24250/)
+Conference: [The XIX International Workshop on Neutrino Telescopes (NeuTel 2021), Online, Padova, Italy](https://agenda.infn.it/event/24250/){:target="_blank"}
 
 Presentation mode: Online
 
