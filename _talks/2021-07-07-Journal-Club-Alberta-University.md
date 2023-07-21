@@ -8,7 +8,7 @@ date: 2021-07-07
 location: "Alberta, Canada"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2021/University_of_Alberta_Journal_Club.pdf){:target="_blank"}
+[Download Talk](http://anilak41.github.io/files/talks/2021/University_of_Alberta_Journal_Club_Anil_Kumar.pdf){:target="_blank"}
 
 Presentation mode: Online
 
