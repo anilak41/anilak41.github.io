@@ -43,7 +43,7 @@ Talks
 Posters
 ======
   <ol>{% for post in site.posters reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
 
 <!--
