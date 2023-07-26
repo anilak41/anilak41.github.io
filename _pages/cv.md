@@ -42,9 +42,9 @@ Talks
 
 Posters
 ======
-  <ul>{% for post in site.posters reversed %}
+  <ol>{% for post in site.posters reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
 <!--
 Teaching
