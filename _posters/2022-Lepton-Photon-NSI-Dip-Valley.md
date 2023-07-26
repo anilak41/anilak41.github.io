@@ -10,6 +10,7 @@ location: "Online"
 
 [Download Poster](http://anilak41.github.io/files//posters/2022/Lepton_Photon_2022_NSI_Dip_Valley_Anil_Kumar.pdf){:target="_blank"}
 
+[Video Recording](https://youtu.be/zaELCI-JU4U){:target="_blank"}
 
 Conference: [The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021), Online](https://indico.cern.ch/event/949705/){:target="_blank"}
 
