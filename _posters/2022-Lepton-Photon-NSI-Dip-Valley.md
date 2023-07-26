@@ -2,18 +2,16 @@
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: posters
 type: "Conference"
-permalink: /posters/2022-poster-Neutrino-NSI-Dip-Valley
-venue: "The XXX International Conference on Neutrino Physics and Astrophysics (Neutrino 2022, Online)"
-date: 2022-05-30
-location: "Seoul, South Korea"
+permalink: /posters/2022-Lepton-Photon-NSI-Dip-Valley
+venue: "The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021)"
+date: 2022-01-10
+location: "Online"
 ---
 
-[Download Poster](https://indico.kps.or.kr/event/30/contributions/130/attachments/271/531/20220513235958_14.jpg){:target="_blank"}
-
-[Video Recording](https://indico.kps.or.kr/event/30/contributions/130/attachments/271/532/20220514000002_1.mp4){:target="_blank"}
+[Download Poster](http://anilak41.github.io/files//posters/2022/Lepton_Photon_2022_NSI_Dip_Valley_Anil_Kumar.pdf){:target="_blank"}
 
 
-Conference: [The XXX International Conference on Neutrino Physics and Astrophysics (Neutrino 2022, Online), Seoul, South Korea](https://neutrino2022.org/){:target="_blank"}
+Conference: [The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021), Online](https://indico.cern.ch/event/949705/){:target="_blank"}
 
 Presentation mode: Online
 
