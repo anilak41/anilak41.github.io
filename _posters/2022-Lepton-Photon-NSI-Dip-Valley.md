@@ -8,9 +8,11 @@ date: 2022-01-10
 location: "Online"
 ---
 
-[Download Poster](http://anilak41.github.io/files//posters/2022/Lepton_Photon_2022_NSI_Dip_Valley_Anil_Kumar.pdf){:target="_blank"}
+[Download Poster](https://indico.cern.ch/event/949705/contributions/4555525/attachments/2370183/4047967/26_Anil_Kumar_LP2022_Poster.pdf){:target="_blank"}
 
-[Video Recording](https://youtu.be/zaELCI-JU4U){:target="_blank"}
+[Video Recording](https://indico.cern.ch/event/949705/contributions/4555525/attachments/2370183/4047968/26_Anil_Kumar_LP2022_Video.mp4){:target="_blank"}
+
+[Contribution page](https://indico.cern.ch/event/949705/contributions/4555525/){:target="_blank"}
 
 Conference: [The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021), Online](https://indico.cern.ch/event/949705/){:target="_blank"}
 
