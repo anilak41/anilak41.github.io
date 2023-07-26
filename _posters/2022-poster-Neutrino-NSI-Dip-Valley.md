@@ -2,7 +2,7 @@
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: posters
 type: "Conference"
-permalink: /posters/2022-poster-Neutrino-2022-NSI-Dip-Valley
+permalink: /posters/2022-poster-Neutrino-NSI-Dip-Valley
 venue: "The XXX International Conference on Neutrino Physics and Astrophysics (Neutrino 2022, Online)"
 date: 2022-05-30
 location: "Seoul, South Korea"
