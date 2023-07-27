@@ -2,7 +2,7 @@
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: posters
 type: "Conference"
-permalink: /posters/2021-WIN-NSI-Dip-Valley
+permalink: /posters/2021-06-08-WIN-NSI-Dip-Valley
 venue: "The 28th International Workshops on Weak Interactions and Neutrinos (WIN 2021, Online)"
 date: 2021-06-08
 location: "University of Minnesota, Minnesota, USA"

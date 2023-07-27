@@ -2,7 +2,7 @@
 title: "Validating the Earth's Core using Atmospheric Neutrinos with ICAL at INO"
 collection: posters
 type: "Conference"
-permalink: /posters/2021-NuFact-Validating-Core
+permalink: /posters/2021-09-08-NuFact-Validating-Core
 venue: "The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021, Online)"
 date: 2021-09-08
 location: " Cagliari, Italy"

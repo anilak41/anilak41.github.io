@@ -2,21 +2,19 @@
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: posters
 type: "Conference"
-permalink: /posters/2021-Invisibles-NSI-Dip-Valley
-venue: "The Invisibles 2021 Virtual Workshop"
-date: 2021-05-31
+permalink: /posters/2022-01-10-Lepton-Photon-NSI-Dip-Valley
+venue: "The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021)"
+date: 2022-01-10
 location: "Online"
 ---
 
-[Download Poster](https://indico.cern.ch/event/911548/contributions/4356679/attachments/2254488/3825122/Anil_Kumar_ID_266_NSI_dip_valley.pdf){:target="_blank"}
+[Download Poster](https://indico.cern.ch/event/949705/contributions/4555525/attachments/2370183/4047967/26_Anil_Kumar_LP2022_Poster.pdf){:target="_blank"}
 
-[Video Recording](https://indico.cern.ch/event/911548/contributions/4356679/attachments/2254488/3825480/Video_Explanation_Anil_Kumar_Poster_ID_266_NSI_dip_valley.mp4){:target="_blank"}
+[Video Recording](https://indico.cern.ch/event/949705/contributions/4555525/attachments/2370183/4047968/26_Anil_Kumar_LP2022_Video.mp4){:target="_blank"}
 
-[Talk for Video](https://indico.cern.ch/event/911548/contributions/4356679/attachments/2254488/3825484/Slides_for_Video_Explanation_Anil_Kumar_Poster_ID_266_NSI_dip_valley.pdf){:target="_blank"}
+[Contribution page](https://indico.cern.ch/event/949705/contributions/4555525/){:target="_blank"}
 
-[Contribution page](https://indico.cern.ch/event/911548/contributions/4356679/){:target="_blank"}
-
-Conference: [The Invisibles 2021 Virtual Workshop](https://indico.cern.ch/event/911548/){:target="_blank"}
+Conference: [The 30th International Symposium on Lepton Photon Interactions at High Energies (Lepton Photon 2021), Online](https://indico.cern.ch/event/949705/){:target="_blank"}
 
 Presentation mode: Online
 
