@@ -1,5 +1,5 @@
 ---
-title: "Exploring Neutrino properties using Atmospheric Neutrinos at ICAL"
+title: "Exploring Neutrino Properties using Atmospheric Neutrinos at ICAL"
 collection: posters
 type: "School"
 permalink: /posters/2018-05-21-INSS-Atmospheric-Neutrinos-ICAL
