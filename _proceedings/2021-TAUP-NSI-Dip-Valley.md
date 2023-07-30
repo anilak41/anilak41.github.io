@@ -1,9 +1,9 @@
 ---
 title: "Exploring NSI using oscillation dip and valley in atmospheric neutrino experiments"
 collection: proceedings
-permalink: /proceedings/2021-TAUP-NSI-Dip-Valley
+permalink: /proceedings/2022-02-21-TAUP-NSI-Dip-Valley
 excerpt: ''
-date: 2021
+date: 2022-02-21
 venue: 'Journal of Physics: Conference Series'
 paperurl: 'https://doi.org/10.1088/1742-6596/2156/1/012119'
 citation: 'Anil Kumar, Amina Khatun, Sanjib Kumar Agarwalla, Amol Dighe, &quot;Exploring NSI using oscillation dip and valley in atmospheric neutrino experiments&quot;, Proceedings of The 17th International Conference on Topics in Astroparticle and Underground Physics (TAUP2021), Online Conference, Valencia, Spain, 26 Aug - 30 Sep, 2021, <i>Journal of Physics: Conference Series</i> 2156 (2021) 012119.'
