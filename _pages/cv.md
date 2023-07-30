@@ -33,7 +33,13 @@ Publications
   <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
-  
+
+Proceedings
+======
+  <ol>{% for post in site.proceedings reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ol>
+
 Talks
 ======
   <ol>{% for post in site.talks reversed %}
