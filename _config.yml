@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  proceedings:
+    output: true
+    permalink: /:collection/:path/
   posters:
     output: true
     permalink: /:collection/:path/
@@ -230,6 +233,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _proceedings
+  - scope:
+      path: ""
+      type: proceedings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -247,7 +259,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+  # _posters      
   - scope:
       path: ""
       type: posters
