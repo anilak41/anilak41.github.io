@@ -12,7 +12,7 @@ citation: 'Anil Kumar, Amina Khatun, Sanjib Kumar Agarwalla, Amol Dighe, &quot;E
 
 Conference: [The 17th International Conference on Topics in Astroparticle and Underground Physics (TAUP2021), Online Conference, Valencia, Spain, 26 Aug - 30 Sep, 2021](https://congresos.adeituv.es/TAUP2021/){:target="_blank"}
 
-[Conference talk](https://anilak41.github.io/talks/2021-09-02-TAUP%202021-NSI-Dip-Valley)
+[Conference talk](https://anilak41.github.io/talks/2021-09-02-TAUP-2021-NSI-Dip-Valley)
 
 
 **Abstract:** We present a new approach to probe flavor-changing neutral-current non-standard neutrino interaction parameter &epsilon;<sub>&mu;&tau;</sub> using the oscillation dip and valley features. We use the simulated up/down ratio of reconstructed muons events at the proposed Iron Calorimeter (ICAL) detector at the India-based Neutrino Observatory to demonstrate that in presence of NSI parameter &epsilon;<sub>&mu;&tau;</sub>, the oscillation dip location shifts and oscillation valley bends. Utilizing the charge identification capability of ICAL, the opposite shifts in the oscillation dip locations and the contrast in the oscillation valley curvatures for &mu;<sup>-</sup> and &mu;<sup>+</sup> can be used to place 90% C.L. bounds of about 2% on \|&epsilon;<sub>&mu;&tau;</sub>\| using 500 kt$\cdot$yr exposure. In our procedure, we take care of statistical fluctuations, systematic errors, and uncertainties in neutrino oscillation parameters.

@@ -2,7 +2,7 @@
 title: "A New Approach to Probe Non-Standard Interactions in Atmospheric Neutrino Experiments"
 collection: talks
 type: "Conference"
-permalink: /talks/2021-09-02-TAUP 2021-NSI-Dip-Valley
+permalink: /talks/2021-09-02-TAUP-2021-NSI-Dip-Valley
 venue: "The 17th International Conference on Topics in Astroparticle and Underground Physics, (TAUP 2021, Online)"
 date: 2021-09-02
 location: "Valencia, Spain "
