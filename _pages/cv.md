@@ -67,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Astrophysics Seminar Organizer at DESY, Zeuthen: June 2023 - Current
+* Astrophysics Seminar Organizer at DESY, Zeuthen: Sep 2023 - Current
