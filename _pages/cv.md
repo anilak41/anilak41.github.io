@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae (pdf format)](http://anilak41.github.io/files/cv/Curriculum_Vitae.pdf){:target="_blank"}
+
+[Publication List (pdf format)](http://anilak41.github.io/files/cv/Publication_list.pdf){:target="_blank"}
+
 Education
 ======
 * Ph.D in Physics, HBNI, Mumbai, 2016-2022
