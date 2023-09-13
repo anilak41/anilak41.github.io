@@ -21,6 +21,9 @@ main:
   - title: "Posters"
     url: /posters/
     
+  - title: "Reports"
+    url: /reports/
+    
   - title: "CV"
     url: /cv/
     
