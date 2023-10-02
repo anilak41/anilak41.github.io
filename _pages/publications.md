@@ -18,10 +18,8 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
-* **Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL**
+## **<span style="color:#52adc8"><ins>Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL.</ins></span>**
 
-	Sadashiv Sahoo, Sudipta Das, Anil Kumar, Sanjib Kumar Agarwalla
-	
-	Submitted in Journal of High Energy Physics
+Submitted in Journal of High Energy Physics
 
-	e-Print arXiv: [2309.16942 [hep-ph]](https://arxiv.org/abs/2309.16942){:target="_blank"}
+Recommended citation: Sadashiv Sahoo, Sudipta Das, Anil Kumar, Sanjib Kumar Agarwalla, "Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL", arXiv: [2309.16942 [hep-ph]](https://arxiv.org/abs/2309.16942){:target="_blank"}
