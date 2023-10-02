@@ -15,10 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<br> 
 
 # Communicated to International Refereed Journals
 
-## **<span style="color:#52adc8"><ins>Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL.</ins></span>**
+## [Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL](https://arxiv.org/abs/2309.16942)
 
 Submitted in Journal of High Energy Physics
 
