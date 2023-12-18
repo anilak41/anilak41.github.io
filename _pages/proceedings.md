@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<ol style="font-size: 24px;">
+<ol>
 {% for post in site.proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}
