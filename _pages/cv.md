@@ -15,15 +15,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, HBNI, Mumbai, 2016-2022
-* M.Sc. in Physics, IIT Roorkee, 2014-2016
-* B.Sc. Hons. in Physics, St. Stephen's College, Delhi University, 2011-2014
+
+| Degree | Subject  | Institute     | Duration |
+|-----------|-----------|-------------|------------|
+| Ph.D | Physics | Homi Bhabha National Institute (HBNI), Mumbai, Maharashtra, India    |  2016 - 2022      |
+| M.Sc. | Physics | Indian Institute of Technology (IIT) Roorkee, Roorkee, Uttarakhand, India  | 2014 - 2016       |
+|B.Sc. (Hons.) | Physics | St. Stephen’s College, University of Delhi, Delhi, India | 2011 - 2014|
+
 
 Work experience
 ======
-* Post Doctoral Fellow: May 2022 - Current
+* Post Doctoral Fellow: June 2022 - Current
   * IceCube Collaboration
-  * DESY Zeuthen, Germany
+  *  Deutsches Elektronen-Synchrotron (DESY), Zeuthen, Germany
   * Supervisor: Dr. Summer Blot
   
 Skills
