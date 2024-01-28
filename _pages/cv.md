@@ -17,9 +17,9 @@ Education
 ======
 
 | Degree | Subject  | Institute     | Duration |
-|-----------|-----------|-------------|------------|
-| Ph.D | Physics | Homi Bhabha National Institute (HBNI), Mumbai, Maharashtra, India    |  2016 - 2022      |
-| M.Sc. | Physics | Indian Institute of Technology (IIT) Roorkee, Roorkee, Uttarakhand, India  | 2014 - 2016       |
+|:-----------:|:-----------:|-------------|------------|
+| Ph.D. | Physics | Homi Bhabha National Institute (HBNI), Mumbai, Maharashtra, India | 2016 - 2022 |
+| M.Sc. | Physics | Indian Institute of Technology (IIT) Roorkee, Roorkee, Uttarakhand, India | 2014 - 2016 |
 |B.Sc. (Hons.) | Physics | St. Stephen’s College, University of Delhi, Delhi, India | 2011 - 2014|
 
 
