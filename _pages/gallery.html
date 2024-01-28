@@ -4,65 +4,21 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-<h2> Poster presentation at EPS-HEP 2023</h2>
-<p>EPS-HEP, Hamburg, Germany, 2023</p>
 
-<center>
-<img src="http://anilak41.github.io/images/gallery/EPS_HEP_2023.png" alt="EPS-HEP 2023" width="400">
-</center>
+<table style="width:100%;padding:10px;" >
+  <tr>
+    <td style="width:33%; vertical-align: top;"  align = "center";>
+        <img src="http://anilak41.github.io/images/gallery/EPS_HEP_2023.png" alt="EPS-HEP 2023" height="300">
+        <p>Poster presentation at EPS-HEP 2023, Hamburg, Germany</p>
+    </td>
+    <td style="width:33%;  vertical-align: top"  align="center">
+        <img src="http://anilak41.github.io/images/gallery/BSc_convocation.png" alt="B.Sc. Convocation" height="300">
+        <p>Convocation in M.Sc. at IIT Roorkee, 2016</p>
+    </td>
+    <td style="width:33%;  vertical-align: top"  align="center">
+        <img src="http://anilak41.github.io/images/gallery/MSc_convocation.png" alt="M.Sc. Convocation" height="300">
+        <p>Convocation in B.Sc. at St. Stephen’s College, 2014</p>
+    </td>
+  </tr>
+</table>
 
-<h2> Convocation in M.Sc.</h2>
-<p>IIT Roorkee, 2016</p>
-
-<center>
-<img src="http://anilak41.github.io/images/gallery/MSc_convocation.png" alt="M.Sc. Convocation" width="500">
-</center>
-
-<h2> Convocation in B.Sc.</h2>
-<p>St. Stephen’s College, 2014</p>
-
-<center>
-<img src="http://anilak41.github.io/images/gallery/BSc_convocation.png" alt="B.Sc. Convocation" width="500">
-</center>
-
-
-<!-- The grid: four columns -->
-<div class="row">
-  <div class="column">
-    <img src="http://anilak41.github.io/images/gallery/EPS_HEP_2023.png" alt="Nature" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="http://anilak41.github.io/images/gallery/MSc_convocation.png" alt="Snow" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="http://anilak41.github.io/images/gallery/BSc_convocation.png" alt="Mountains" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="http://anilak41.github.io/images/gallery/BSc_convocation.png" alt="Lights" onclick="myFunction(this);">
-  </div>
-</div>
-
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div>
-
-function myFunction(imgs) {
-  // Get the expanded image
-  var expandImg = document.getElementById("expandedImg");
-  // Get the image text
-  var imgText = document.getElementById("imgtext");
-  // Use the same src in the expanded image as the image being clicked on from the grid
-  expandImg.src = imgs.src;
-  // Use the value of the alt attribute of the clickable image as text inside the expanded image
-  imgText.innerHTML = imgs.alt;
-  // Show the container element (hidden with CSS)
-  expandImg.parentElement.style.display = "block";
-}
