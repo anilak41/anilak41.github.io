@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-12-18
 venue: 'Proceedings of Science'
 paperurl: 'https://doi.org/10.22323/1.449.0179'
-citation: 'Anil Kumar (for the IceCube Collaboration)&quot;, Latest Muon Neutrino Disappearance Results from IceCube DeepCore&quot;, Proceedings of the European Physical Society Conference on High Energy Physics (EPS-HEP 2023), 21-25 August 2023,  University of Hamburg, Germany, <i>PoS(EPS-HEP2023)</i> 179.'
+citation: 'Anil Kumar (for the IceCube Collaboration), &quot; Latest Muon Neutrino Disappearance Results from IceCube DeepCore&quot;, Proceedings of the European Physical Society Conference on High Energy Physics (EPS-HEP 2023), 21-25 August 2023,  University of Hamburg, Germany, <i>PoS(EPS-HEP2023)</i> 179.'
 
 ---
 
