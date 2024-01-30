@@ -1,7 +1,7 @@
 ---
 title: "Neutrino Oscillations in the Earth: A Unique Tool to Probe Dark Matter Inside the Core"
 collection: proceedings
-permalink: /proceedings/2023-09-11-Probing-Dark-Matter-Inside-Core
+permalink: /proceedings/2023-09-11-NuFact-Probing-Dark-Matter-Inside-Core
 excerpt: ''
 date: 2023-09-11
 venue: 'Physical Sciences Forum'

@@ -1,7 +1,7 @@
 ---
 title: "Discriminating Between Lorentz Violation and Non-Standard Interactions Using Core-Passing Atmospheric Neutrinos at INO-ICAL"
 collection: proceedings
-permalink: /proceedings/2023-06-01-Discriminating-Between-LIV-and-NSI
+permalink: /proceedings/2023-06-01-CPT-Discriminating-Between-LIV-and-NSI
 excerpt: ''
 date: 2023-06-01
 venue: 'CPT and Lorentz Symmetry'

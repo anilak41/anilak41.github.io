@@ -1,7 +1,7 @@
 ---
 title: "Latest Muon Neutrino Disappearance Results from IceCube DeepCore"
 collection: proceedings
-permalink: /proceedings/2023-12-18-Numu-Disappearance-DeepCore
+permalink: /proceedings/2023-12-18-EPS-HEP-Numu-Disappearance-DeepCore
 excerpt: ''
 date: 2023-12-18
 venue: 'Proceedings of Science'
