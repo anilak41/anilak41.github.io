@@ -10,6 +10,7 @@ location: "Milano, Italy"
 
 [Download Poster](https://agenda.infn.it/event/37867/contributions/227991/attachments/121346/176985/Anil_Kumar_Poster_ID_381_Neutrino_2024_Invisible_Neutrino_Decay.pdf){:target="_blank"}
 
+[Contribution page](https://agenda.infn.it/event/37867/contributions/227991/){:target="_blank"}
 
 Conference: [The XXXI International Conference on Neutrino Physics and Astrophysics (Neutrino 2024), June 16-22, 2024, Milano, Italy](https://neutrino2024.org/){:target="_blank"}
 
