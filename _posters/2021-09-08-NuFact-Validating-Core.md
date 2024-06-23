@@ -12,8 +12,9 @@ location: " Cagliari, Italy"
 
 [Video Recording](https://indico.cern.ch/event/855372/contributions/4464998/attachments/2303608/3918765/KumarAnil_Validating_Earth_Core_INO.mkv){:target="_blank"}
 
+[Contribution page](https://indico.cern.ch/event/855372/contributions/4464998/){:target="_blank"}
 
-Conference: [The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021), Cagliari, Italy](https://nufact2021.ca.infn.it/){:target="_blank"}
+Conference: [The 22nd International Workshop on Neutrinos from Accelerators (NuFact 2021), Cagliari, Italy](https://indico.cern.ch/event/855372/overview){:target="_blank"}
 
 Presentation mode: Online
 

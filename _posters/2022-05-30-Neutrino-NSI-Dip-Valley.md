@@ -12,6 +12,7 @@ location: "Seoul, South Korea"
 
 [Video Recording](https://indico.kps.or.kr/event/30/contributions/130/attachments/271/532/20220514000002_1.mp4){:target="_blank"}
 
+[Contribution page](https://indico.kps.or.kr/event/30/contributions/130/){:target="_blank"}
 
 Conference: [The XXX International Conference on Neutrino Physics and Astrophysics (Neutrino 2022, Online), Seoul, South Korea](https://neutrino2022.org/){:target="_blank"}
 
