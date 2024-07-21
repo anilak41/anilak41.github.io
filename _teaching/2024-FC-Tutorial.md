@@ -20,6 +20,6 @@ Tutorial on the construction of Feldman-Cousins Confidence Intervals.
 
 - [FC Tutorial Notebook on Github](https://github.com/aknayak/ml4hep-stat-iop/blob/main/FC_intervals_bounded_gaussian.ipynb)
 
-- [FC Tutorial Recording](https://drive.iopb.res.in/index.php/s/FG6HxjdoZyeqr8H?path=%2F) 
+- [FC Tutorial Recording](https://drive.iopb.res.in/index.php/s/FG6HxjdoZyeqr8H?dir=undefined&path=%2F&openfile=5628428) 
 
 - [School-cum-workshop on Machine Learning for Particle and Astroparticle Physics](https://iopb.res.in/ml4hep/index.php)
