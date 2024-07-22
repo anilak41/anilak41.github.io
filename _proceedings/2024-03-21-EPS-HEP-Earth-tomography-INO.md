@@ -1,9 +1,9 @@
 ---
 title: "Probing the interior of Earth using oscillating neutrinos at INO-ICAL"
 collection: proceedings
-permalink: /proceedings/2024-01-30-EPS-HEP-Earth-tomography-INO
+permalink: /proceedings/2024-03-21-EPS-HEP-Earth-tomography-INO
 excerpt: ''
-date: 2024-01-30
+date: 2024-03-21
 venue: 'Proceedings of Science'
 paperurl: 'https://doi.org/10.22323/1.449.0198'
 citation: 'Anil Kumar, Anuj Kumar Upadhyay, Sanjib Kumar Agarwalla, Amol Dighe, &quot; Probing the interior of Earth using oscillating neutrinos at INO-ICAL&quot;, Proceedings of the European Physical Society Conference on High Energy Physics (EPS-HEP 2023), 21-25 August 2023,  University of Hamburg, Germany, <i>PoS(EPS-HEP2023)</i> 198.'

@@ -5,7 +5,7 @@ permalink: /proceedings/2024-07-17-DAE-HEP-NUNM
 excerpt: ''
 date: 2024-07-17
 venue: 'Springer Proc. Phys.'
-paperurl: 'https://doi.org/10.1007/978-981-19-2354-8_96'
+paperurl: 'https://doi.org/10.1007/978-981-97-0289-3_63'
 citation: 'Sadashiv Sahoo, Sudipta Das, Anil Kumar, Sanjib Kumar Agarwalla, &quot;Probing non-unitary neutrino mixing using atmospheric neutrinos at INO-ICAL&quot;, Proceedings of the XXV DAE-BRNS High Energy Physics (HEP) Symposium 2022, IISER, Mohali, India, 12-16 Dec, 2022. <i>Springer Proc. Phys.</i> 304 (2024) 290-293.'
 
 ---
