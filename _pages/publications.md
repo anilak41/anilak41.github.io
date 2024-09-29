@@ -24,9 +24,3 @@ author_profile: true
 Submitted in *Journal of High Energy Physics*, 2024
 
 Recommended citation: Anuj Kumar Upadhyay, Anil Kumar, Sanjib Kumar Agarwalla, Amol Dighe, "Constraining the core radius and density jumps inside Earth using atmospheric neutrino oscillations", arXiv: [2405.04986 [hep-ph]](https://arxiv.org/abs/2405.04986){:target="_blank"}
-
-## [Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL](https://arxiv.org/abs/2309.16942){:target="_blank"}
-
-Submitted in *Journal of High Energy Physics*, 2023
-
-Recommended citation: Sadashiv Sahoo, Sudipta Das, Anil Kumar, Sanjib Kumar Agarwalla, "Constraining non-unitary neutrino mixing using matter effects in atmospheric neutrinos at INO-ICAL", arXiv: [2309.16942 [hep-ph]](https://arxiv.org/abs/2309.16942){:target="_blank"}
