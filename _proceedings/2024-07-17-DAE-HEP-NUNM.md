@@ -1,7 +1,7 @@
 ---
 title: "Probing non-unitary neutrino mixing using atmospheric neutrinos at INO-ICAL"
 collection: proceedings
-permalink: /proceedings/2024-07-17-DAE-HEP-NUNM
+permalink: /proceedings/2024-07-17-DAE-HEP-NUNM.md
 excerpt: ''
 date: 2024-07-17
 venue: 'Springer Proc. Phys.'
