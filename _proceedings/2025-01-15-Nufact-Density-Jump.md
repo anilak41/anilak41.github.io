@@ -1,7 +1,7 @@
 ---
 title: "Exploring constraints on the core radius and density jumps inside Earth using atmospheric neutrino oscillations"
 collection: proceedings
-permalink: /proceedings/2025-01-15-Nufact-Density-Jump.md
+permalink: /proceedings/2025-01-15-Nufact-Density-Jump
 excerpt: ''
 date: 2025-01-15
 venue: 'ArXiv'
