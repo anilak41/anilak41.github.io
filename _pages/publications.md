@@ -19,6 +19,12 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
+## [Probing Earth’s core using atmospheric neutrino oscillations with NSI](https://arxiv.org/abs/2507.02167){:target="_blank"}
+
+Submitted in *Journal of High Energy Physics*, 2025
+
+Recommended citation: Krishnamoorthi J, Anuj Kumar Upadhyay, Anil Kumar, Sanjib Kumar Agarwalla, "Probing Earth’s core using atmospheric neutrino oscillations with NSI", arXiv: [2507.02167 [hep-ph]](https://arxiv.org/abs/2507.02167){:target="_blank"}
+
 ## [Constraining the core radius and density jumps inside Earth using atmospheric neutrino oscillations](https://arxiv.org/abs/2405.04986){:target="_blank"}
 
 Submitted in *Journal of High Energy Physics*, 2024
