@@ -11,7 +11,7 @@ redirect_from:
 
 * [Curriculum Vitae (pdf format)](http://anilak41.github.io/files/cv/Curriculum_Vitae.pdf){:target="_blank"}
 * [Publication List (pdf format)](http://anilak41.github.io/files/cv/Publication_list.pdf){:target="_blank"}
-* Ph.D. Thesis: [Studies on Response Uniformity of RPC and Exploring Oscillation Dip and Valley, Non-Standard Interactions, and Earth's Core using Atmospheric Neutrinos at ICAL-INO detector](https://arxiv.org/pdf/2509.20094){:target="_blank"}
+* Ph.D. Thesis: [Studies on Response Uniformity of RPC and Exploring Oscillation Dip and Valley, Non-Standard Interactions, and Earth's Core using Atmospheric Neutrinos at ICAL-INO detector](http://hdl.handle.net/10603/428045){:target="_blank"}, arXiv: [2507.02167 [hep-ph]](https://arxiv.org/pdf/2509.20094){:target="_blank"}
 
 Education
 ======
