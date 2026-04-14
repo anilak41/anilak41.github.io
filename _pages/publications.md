@@ -19,14 +19,15 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
-## [Probing Earth’s core using atmospheric neutrino oscillations with NSI](https://arxiv.org/abs/2507.02167){:target="_blank"}
+## [First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore](https://arxiv.org/abs/2601.01220){:target="_blank"}
 
-Submitted in *Journal of High Energy Physics*, 2025
+Submitted in *Physical Review Letters*, 2026
 
-Recommended citation: Krishnamoorthi J, Anuj Kumar Upadhyay, Anil Kumar, Sanjib Kumar Agarwalla, "Probing Earth’s core using atmospheric neutrino oscillations with NSI", arXiv: [2507.02167 [hep-ph]](https://arxiv.org/abs/2507.02167){:target="_blank"}
+Recommended citation: Gopal Garg, J Krishnamoorthi, Anil Kumar, Sanjib Kumar Agarwalla, "First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore", arXiv: [2601.01220 [hep-ph]](https://arxiv.org/abs/2601.01220){:target="_blank"}
 
-## [Constraining the core radius and density jumps inside Earth using atmospheric neutrino oscillations](https://arxiv.org/abs/2405.04986){:target="_blank"}
+## [Stringent constraints on non-standard neutrino interactions using high-purity $\nu_\mu$ CC events in IceCube DeepCore](https://arxiv.org/abs/2512.22632){:target="_blank"}
 
-Submitted in *Journal of High Energy Physics*, 2024
+Submitted in *Physical Review Letters*, 2026
 
-Recommended citation: Anuj Kumar Upadhyay, Anil Kumar, Sanjib Kumar Agarwalla, Amol Dighe, "Constraining the core radius and density jumps inside Earth using atmospheric neutrino oscillations", arXiv: [2405.04986 [hep-ph]](https://arxiv.org/abs/2405.04986){:target="_blank"}
+Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib
+Kumar Agarwalla, "Stringent constraints on non-standard neutrino interactions using high-purity $\nu_\mu$ CC events in IceCube DeepCore", arXiv: [2512.22632 [hep-ph]](https://arxiv.org/abs/2512.22632){:target="_blank"}
