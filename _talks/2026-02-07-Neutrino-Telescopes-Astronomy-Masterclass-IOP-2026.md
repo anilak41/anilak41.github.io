@@ -10,4 +10,6 @@ location: "Bhubaneswar, India"
 
 [Download Talk](https://drive.google.com/file/d/11wJK55XRgPj_funblAUnkA2xgOEWz13b/view?usp=drive_link){:target="_blank"}
 
+Event Webpage: [Neutrino Astronomy MasterClass at Institue of Physics, Bhubaneswar, India](https://drive.google.com/drive/folders/1G9_nzAqW4UnZU3NAcOiRm1T-4JYwZ6Pp){:target="_blank"}
+
 Presentation mode: In-person
