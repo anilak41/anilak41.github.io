@@ -3,7 +3,7 @@ title: "Probing the fundamental properties of neutrinos using atmospheric neutri
 collection: talks
 type: "HEP Seminar"
 permalink: /talks/2025-06-26-HEP-Seminar-IOPB-IceCube
-venue: "HEP Seminar, Insitute of Physics (Online)"
+venue: "Insitute of Physics (Online)"
 date: 2025-06-26
 location: "Bhubaneswar, India"
 ---
