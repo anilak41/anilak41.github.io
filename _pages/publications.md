@@ -19,6 +19,12 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
+## [Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore](https://arxiv.org/abs/2606.03443){:target="_blank"}
+
+Submitted in *Physical Review D*, 2026
+
+Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore", arXiv: [2606.03443 [hep-ph]](https://arxiv.org/abs/2606.03443){:target="_blank"}
+
 ## [$\delta_{\rm CP}$-free constraints on NSI parameters $\varepsilon_{e\mu}$ and $\varepsilon_{e\tau}$ using high-purity $\nu_\mu\, {\rm CC}$ events at IceCube DeepCore](https://arxiv.org/abs/2604.16157){:target="_blank"}
 
 Submitted in *Physical Review D*, 2026
