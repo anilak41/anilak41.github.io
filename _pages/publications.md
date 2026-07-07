@@ -19,17 +19,17 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
+## [New constraints on non-unitary neutrino mixing from 8 years of IceCube DeepCore atmospheric neutrino data](https://arxiv.org/abs/2607.02355){:target="_blank"}
+
+Submitted in *Physical Review D*, 2026
+
+Recommended citation: Sharmistha Chattopadhyay, Anil Kumar, Sanjib Kumar Agarwalla, "New constraints on non-unitary neutrino mixing from 8 years of IceCube DeepCore atmospheric neutrino data", arXiv: [2607.02355 [hep-ph]](https://arxiv.org/abs/2607.02355){:target="_blank"}
+
 ## [Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore](https://arxiv.org/abs/2606.03443){:target="_blank"}
 
 Submitted in *Physical Review D*, 2026
 
 Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore", arXiv: [2606.03443 [hep-ph]](https://arxiv.org/abs/2606.03443){:target="_blank"}
-
-## [$\delta_{\rm CP}$-free constraints on NSI parameters $\varepsilon_{e\mu}$ and $\varepsilon_{e\tau}$ using high-purity $\nu_\mu\, {\rm CC}$ events at IceCube DeepCore](https://arxiv.org/abs/2604.16157){:target="_blank"}
-
-Submitted in *Physical Review D*, 2026
-
-Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "$\delta_{\rm CP}$-free constraints on NSI parameters $\varepsilon_{e\mu}$ and $\varepsilon_{e\tau}$ using high-purity $\nu_\mu\, {\rm CC}$ events at IceCube DeepCore", arXiv: [2604.16157 [hep-ph]](https://arxiv.org/abs/2604.16157){:target="_blank"}
 
 ## [First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore](https://arxiv.org/abs/2601.01220){:target="_blank"}
 
