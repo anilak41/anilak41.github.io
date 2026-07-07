@@ -1,5 +1,5 @@
 ---
-title: "$\delta_{\rm CP}$-free constraints on NSI parameters $\varepsilon_{e\mu}$ and $\varepsilon_{e\tau}$ using high-purity $\nu_\mu\, {\rm CC}$ events at IceCube DeepCore"
+title: '$\delta_{\rm CP}$-free constraints on NSI parameters $\varepsilon_{e\mu}$ and $\varepsilon_{e\tau}$ using high-purity $\nu_\mu\, {\rm CC}$ events at IceCube DeepCore'
 collection: publications
 permalink: /publication/2027-07-06-DeepCore-delta-CP-free-NSI
 excerpt: ''
