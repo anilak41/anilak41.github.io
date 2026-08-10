@@ -19,6 +19,12 @@ author_profile: true
 
 # Communicated to International Refereed Journals
 
+## [Estimating the sensitivity of the IceCube Upgrade to probe the interior of the Earth using atmospheric neutrino oscillations](https://arxiv.org/abs/2608.06543){:target="_blank"}
+
+Submitted in *Physical Review D*, 2026
+
+Recommended citation: R. Abbasi et al. (IceCube Collaboration), "Estimating the sensitivity of the IceCube Upgrade to probe the interior of the Earth using atmospheric neutrino oscillations", arXiv: [2608.06543 [hep-ex]](https://arxiv.org/abs/2608.06543){:target="_blank"}
+
 ## [New constraints on non-unitary neutrino mixing from 8 years of IceCube DeepCore atmospheric neutrino data](https://arxiv.org/abs/2607.02355){:target="_blank"}
 
 Submitted in *Physical Review D*, 2026
