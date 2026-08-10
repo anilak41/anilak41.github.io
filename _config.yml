@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anil Kumar"
 title_separator          : "-"
 name                     : &name "Anil Kumar"
-description              : &description "I am a Postdoc at DESY, Zeuthen"
+description              : &description "I am a Postdoc at IOP, Bhubanesar"
 url                      : https://anilak41.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anilak41.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anil Kumar"
   avatar           : "profile.png"
-  bio              : "Postdoc at Deutsches Elektronen-Synchrotron (DESY), Zeuthen, Germany"
-  location         : "Zeuthen, Germany"
-  employer         : "DESY"
+  bio              : "Postdoc at Institute of Physics (IOP), Bhubaneswar, India"
+  location         : "Bhubaneswar, India"
+  employer         : "IOP"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tp3KMp0AAAAJ&hl=en"
   email            : "anil.kumar@desy.de"
-  researchgate     : https://www.researchgate.net/profile/Anil-Kumar-361  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Anil-Kumar-361"  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
