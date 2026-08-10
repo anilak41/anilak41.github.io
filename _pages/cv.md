@@ -25,7 +25,12 @@ Education
 Work experience
 ======
 
-* Post Doctoral Fellow: June 2022 - Current
+* Senior Post-doctoral Fellow: July 2025 - Present
+  * In the prestigious DST- SERB Swarnajayanti Project of Prof. Sanjib Kumar Agarwalla
+  * Institute of Physics, Bhubaneswar, India
+  * Supervisor: Prof. Sanjib Kumar Agarwalla
+
+* Post Doctoral Fellow: June 2022 - May 2025
   * IceCube Collaboration
   * Deutsches Elektronen-Synchrotron (DESY), Zeuthen, Germany
   * Supervisor: Dr. Summer Blot
