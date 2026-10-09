@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}</ol>
 
-<br> 
+<br> https://link.aps.org/doi/10.1103/2n9h-csnl
 
 # Communicated to International Refereed Journals
 
@@ -42,9 +42,3 @@ Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, 
 Submitted in *Physical Review Letters*, 2026
 
 Recommended citation: Gopal Garg, J Krishnamoorthi, Anil Kumar, Sanjib Kumar Agarwalla, "First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore", arXiv: [2601.01220 [hep-ph]](https://arxiv.org/abs/2601.01220){:target="_blank"}
-
-## [Stringent constraints on non-standard neutrino interactions using high-purity $\nu_\mu$ CC events in IceCube DeepCore](https://arxiv.org/abs/2512.22632){:target="_blank"}
-
-Submitted in *Physical Review Letters*, 2026
-
-Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "Stringent constraints on non-standard neutrino interactions using high-purity $\nu_\mu$ CC events in IceCube DeepCore", arXiv: [2512.22632 [hep-ph]](https://arxiv.org/abs/2512.22632){:target="_blank"}

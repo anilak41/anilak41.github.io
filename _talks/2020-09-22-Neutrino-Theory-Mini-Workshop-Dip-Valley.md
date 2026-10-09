@@ -10,6 +10,8 @@ location: "Online"
 
 [Download Talk](https://indico.fnal.gov/event/45039/contributions/197060/attachments/134789/166929/Anil_neutrino_mini-workshop2020.pdf){:target="_blank"}
 
+[Contribution Page](https://indico.fnal.gov/event/45039/contributions/197060/){:target="_blank"}
+
 Conference: [Virtual Mini-Workshop on Neutrino Theory, Sep 21 - 23, 2020](https://indico.fnal.gov/event/45039/){:target="_blank"}
 
 Presentation mode: Online

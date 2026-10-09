@@ -10,6 +10,8 @@ location: " Padova, Italy"
 
 [Download Talk](https://agenda.infn.it/event/24250/contributions/130128/attachments/79372/103139/NuTel_Anil_Kumar_NSI.pdf){:target="_blank"}
 
+[Contribution Page](https://agenda.infn.it/event/24250/contributions/130128/){:target="_blank"}
+
 [Zenodo](http://doi.org/10.5281/zenodo.4687417){:target="_blank"}
 
 [Recording](https://mediaspace.unipd.it/media/%20XIX+International+Workshop+on+Neutrino+Telescopes+-%20+Parallel+Room+3/1_3yaiywqe?st=8957&ed=9328){:target="_blank"}

@@ -8,7 +8,9 @@ date: 2022-07-31
 location: "Salt Lake City, Utah, United States"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2022/MMTE_2022_Anil_Kumar.pdf){:target="_blank"}
+[Download Talk](https://indico.fnal.gov/event/53004/contributions/244493/attachments/158270/207630/MMTE_2022_Anil_Kumar.pdf){:target="_blank"}
+
+[Contribution Page](https://indico.fnal.gov/event/53004/contributions/244493/){:target="_blank"}
 
 Conference: [Multi-Messenger Tomography of Earth Workshop (MMTE 2022), Salt Lake City, Utah, United States](https://www.physics.utah.edu/mmte-2022/){:target="_blank"}
 

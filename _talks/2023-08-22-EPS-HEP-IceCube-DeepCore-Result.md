@@ -10,6 +10,9 @@ location: "University of Hamburg, Germany"
 
 [Download Talk](https://indico.desy.de/event/34916/contributions/147056/attachments/84092/111339/EPS-HEP-2023-IceCube-DeepCore-Anil-Kumar.pdf){:target="_blank"}
 
+[Contribution Page](https://indico.desy.de/event/34916/contributions/147056/){:target="_blank"}
+
+
 Conference: [The European Physical Society Conference on High Energy Physics (EPS-HEP 2023), University of Hamburg, Germany](https://www.eps-hep2023.eu/){:target="_blank"}
 
 Presentation mode: In-person

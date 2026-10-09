@@ -8,7 +8,9 @@ date: 2022-08-04
 location: "Salt Lake City, Utah, United States"
 ---
 
-[Download Talk](http://anilak41.github.io/files/talks/2022/NuFact_2022_NSI_Anil_Kumar.pdf){:target="_blank"}
+[Download Talk](https://indico.fnal.gov/event/53004/contributions/244729/attachments/158459/207916/Anil_Kumar_NSI_Nufact_2022.pdf){:target="_blank"}
+
+[Contribution Page](https://indico.fnal.gov/event/53004/contributions/244729/){:target="_blank"}
 
 Conference: [The 23rd International Workshop on Neutrinos from Accelerators (NuFact 2022), Salt Lake City, Utah, United States](https://www.physics.utah.edu/nufact-2022/){:target="_blank"}
 
