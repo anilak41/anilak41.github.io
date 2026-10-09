@@ -5,7 +5,7 @@ permalink: /proceedings/2022-05-12-EPS-HEP-Probing-Earth-Core
 excerpt: ''
 date: 2022-05-12
 venue: 'Proceedings of Science'
-paperurl: 'https://pos.sissa.it/398/257/pdf'
+paperurl: 'https://doi.org/10.22323/1.398.0257'
 citation: 'Anil Kumar, Sanjib Kumar Agarwalla, &quot;Probing the Earth’s Core using Atmospheric Neutrinos at INO&quot;, Proceedings of The European Physical Society Conference on High Energy Physics (EPS-HEP 2021), Online Conference, 26-30 Jul, 2021, <i>PoS(EPS-HEP2021)</i> 257.'
 
 ---
