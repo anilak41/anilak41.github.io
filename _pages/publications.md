@@ -33,12 +33,13 @@ Recommended citation: Sharmistha Chattopadhyay, Anil Kumar, Sanjib Kumar Agarwal
 
 ## [Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore](https://arxiv.org/abs/2606.03443){:target="_blank"}
 
-Submitted in *Physical Review D*, 2026
+Submitted in *Journal of Cosmology and Astroparticle Physics*, 2026
 
 Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore", arXiv: [2606.03443 [hep-ph]](https://arxiv.org/abs/2606.03443){:target="_blank"}
 
-## [First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore](https://arxiv.org/abs/2601.01220){:target="_blank"}
+## [First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}
 
-Submitted in *Physical Review Letters*, 2026
+Accepted in [*Physical Review D*, 2026](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}
 
-Recommended citation: Gopal Garg, J Krishnamoorthi, Anil Kumar, Sanjib Kumar Agarwalla, "First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore", arXiv: [2601.01220 [hep-ph]](https://arxiv.org/abs/2601.01220){:target="_blank"}
+
+Recommended citation: Gopal Garg, J Krishnamoorthi, Anil Kumar, Sanjib Kumar Agarwalla, "First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore", [*Physical Review D*, (2026)](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}, arXiv: [2601.01220 [hep-ph]](https://arxiv.org/abs/2601.01220){:target="_blank"}
