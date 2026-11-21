@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}</ol>
 
-<br> https://link.aps.org/doi/10.1103/2n9h-csnl
+
+<br>
 
 # Communicated to International Refereed Journals
 
@@ -27,7 +28,7 @@ Recommended citation: R. Abbasi et al. (IceCube Collaboration), "Estimating the 
 
 ## [New constraints on non-unitary neutrino mixing from 8 years of IceCube DeepCore atmospheric neutrino data](https://arxiv.org/abs/2607.02355){:target="_blank"}
 
-Submitted in *Physical Review D*, 2026
+Accepted in [*Physical Review D* (2026)](https://doi.org/10.1103/266n-9qrs){:target="_blank"}
 
 Recommended citation: Sharmistha Chattopadhyay, Anil Kumar, Sanjib Kumar Agarwalla, "New constraints on non-unitary neutrino mixing from 8 years of IceCube DeepCore atmospheric neutrino data", arXiv: [2607.02355 [hep-ph]](https://arxiv.org/abs/2607.02355){:target="_blank"}
 
@@ -36,10 +37,3 @@ Recommended citation: Sharmistha Chattopadhyay, Anil Kumar, Sanjib Kumar Agarwal
 Submitted in *Journal of Cosmology and Astroparticle Physics*, 2026
 
 Recommended citation: J Krishnamoorthi, Anil Kumar, and Sanjib Kumar Agarwalla, "Constraints on long-range neutrino interactions from a variety of $U(1)^\prime$ symmetries using atmospheric neutrinos at IceCube DeepCore", arXiv: [2606.03443 [hep-ph]](https://arxiv.org/abs/2606.03443){:target="_blank"}
-
-## [First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}
-
-Accepted in [*Physical Review D*, 2026](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}
-
-
-Recommended citation: Gopal Garg, J Krishnamoorthi, Anil Kumar, Sanjib Kumar Agarwalla, "First Constraints on Long-Range Neutrino Interactions using IceCube DeepCore", [*Physical Review D*, (2026)](https://doi.org/10.1103/zx4x-89k6){:target="_blank"}, arXiv: [2601.01220 [hep-ph]](https://arxiv.org/abs/2601.01220){:target="_blank"}
